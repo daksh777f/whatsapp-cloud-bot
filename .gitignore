@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules
+
+# Environment variables (DO NOT UPLOAD THIS)
+.env
+
+# Logs and temp files
+npm-debug.log
+.DS_Store
