@@ -1,7 +1,6 @@
 # Node dependencies
 node_modules
 
-# Environment variables (DO NOT UPLOAD THIS)
 .env
 
 # Logs and temp files
